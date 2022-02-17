@@ -74,7 +74,7 @@
                         "name": "LangPackFi",
                         "runElevated": true,
                         "runAsSystem": true,
-                        "scriptUri": "https://github.com/Puresawo/cloud/blob/main/LangPackFi.ps1"
+                        "scriptUri": "https://raw.githubusercontent.com/Puresawo/cloud/main/LangPackFi.ps1"
                     },
                     {
                         "type": "WindowsRestart",
