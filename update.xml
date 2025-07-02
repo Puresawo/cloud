@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
 <app appid='jbifejglggiakalkngfgaegdigjheblb'>
-<updatecheck codebase='https://github.com/Puresawo/cloud/raw/main/Custom%20Wallpaper%20CRX%201.0.crx'
+<updatecheck codebase='https://raw.githubusercontent.com/Puresawo/cloud/refs/heads/main/Custom%20Wallpaper%20CRX%201.0.crx'
 version='1.0' />
 </app>
 </gupdate>
